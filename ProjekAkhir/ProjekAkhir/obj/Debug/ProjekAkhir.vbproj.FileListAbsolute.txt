@@ -1,0 +1,52 @@
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe.config
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.pdb
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.xml
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormRegist.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormLogin.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.Resources.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.exe
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.xml
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.pdb
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\bin\Debug\mysql.data.dll
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.AddBerita.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.LihatBerita.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.EditBerita.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuAdmin.resources
+C:\Users\Lenovo - GK\OneDrive\Documents\Visual Studio 2012\Projects\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuUser.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe.config
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.exe
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.xml
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.pdb
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.pdb
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.xml
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.AddBerita.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.EditBerita.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuAdmin.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuUser.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormRegist.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormLogin.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.LihatBerita.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.Resources.resources
+C:\Users\USER\Downloads\ProjekAkhir1\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe.config
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.exe
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.xml
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.pdb
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.exe
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.pdb
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\bin\Debug\ProjekAkhir.xml
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.AddBerita.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.EditBerita.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuAdmin.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormMenuUser.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormRegist.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.FormLogin.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.LihatBerita.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.Resources.resources
+C:\Users\Lenovo - GK\Downloads\ProjekAkhir\ProjekAkhir\ProjekAkhir\ProjekAkhir\obj\Debug\ProjekAkhir.vbproj.GenerateResource.Cache
