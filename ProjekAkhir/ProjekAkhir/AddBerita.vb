@@ -40,7 +40,6 @@ Public Class AddBerita
     Sub clean()
         txtjudul.Clear()
         txtisi.Clear()
-        DateTimePicker1.Value = Now
         For Each ctrl As Control In GroupBox1.Controls
             If TypeOf ctrl Is RadioButton Then
                 DirectCast(ctrl, RadioButton).Checked = False
